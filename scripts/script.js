@@ -18,69 +18,69 @@ new Vue({
           favorited: true
         },
         {
-          name: "DDU DU DDU DU 🔫 ",
-          artist: "BlackPink",
-          cover: "../img/2.jpeg",
+          name: "I Wrote A Song ",
+          artist: "Mae Muller",
+          cover: "../img/2.jpg",
           source: "../mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=IHNzOHi8sJs&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com/watch?v=rRaVGKk4k6k&ab_channel=MaeMullerVEVO",
           favorited: false
         },
 
         {
-          name: "Lovesick Girls",
-          artist: "BlackPink",
-          cover: "../img/3.jpeg",
+          name: "Obsessed X Rubicon Drill - Mega Mashup",
+          artist: "Riar Saab ft. Parmish Verma",
+          cover: "../img/3.jpg",
           source: "../mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=dyRsYk0LyA8&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com/watch?v=tOZtA8UAwCk&ab_channel=SRMusicOfficial",
           favorited: false
         },
 
         {
-          name: "Playing With Fire 🔥",
-          artist: "BlackPink",
-          cover: "../img/4.jpeg",
+          name: "Weekend Bhangra Mashup 3! 2023",
+          artist: "Diljit Dosanjh, Sidhu Moose Wala, Shubh & More! ",
+          cover: "../img/4.jpg",
           source: "../mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=9pdj4iJD08s&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com/watch?v=3luKVMfaAS8&ab_channel=NickDhillon",
           favorited: false
         },
         {
-          name: "As If It's Your Last",
-          artist: "BlackPink",
-          cover: "../img/5.jpeg",
+          name: "Welcome To My Hood",
+          artist: "Diljit Dosanjh",
+          cover: "../img/5.jpg",
           source: "../mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=Amq-qlqbjYA&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com/watch?v=1ExdPa00uz4&ab_channel=DiljitDosanjh",
           favorited: false
         },
         {
-          name: "Boy with Love",
-          artist: "BTS",
+          name: "4x4",
+          artist: "Nirvair Pannu",
           cover: "../img/6.jpg",
           source: "../mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=XsX3ATc3FbA&ab_channel=HYBELABELS",
+          url: "https://www.youtube.com/watch?v=iyOSG9431kg&ab_channel=JukeDocks",
           favorited: false
         },
         {
-          name: "Dynamite",
-          artist: "BTS",
-          cover: "../img/7.jpeg",
+          name: "SUPERMAN",
+          artist: "Yo Yo Honey Singh",
+          cover: "../img/7.jpg",
           source: "../mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=gdZLi9oWNZg&ab_channel=HYBELABELS",
+          url: "https://www.youtube.com/watch?v=zxlR20V4NFQ&ab_channel=T-Series",
           favorited: false
         },
         {
-          name: "DNA",
-          artist: "BTS",
-          cover: "../img/8.jpeg",
+          name: "Sports Gaddiyan : Legendary Mashup",
+          artist: "Yo Yo Honey Singh | Sidhu Moosewala | Imran Khan | Sukh-E  | AP Dhillon",
+          cover: "../img/8.jpg",
           source: "../mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS",
+          url: "hhttps://www.youtube.com/watch?v=nYCVjBejVD0&ab_channel=SunnyHassan",
           favorited: false
         },
         {
-          name: "Butter",
-          artist: "BTS",
-          cover: "../img/9.jpeg",
+          name: "Mi Amor - True Feeling Mashup 2023",
+          artist: "SHARN | Sonam Bajwa | Imran Khan | Ap Dhillon ",
+          cover: "../img/9.jpg",
           source: "../mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=WMweEpGlu_U&ab_channel=HYBELABELS",
+          url: "https://www.youtube.com/watch?v=kE7fjrbmJ0s&ab_channel=SunnyHassan",
           favorited: false
         }
       ],
